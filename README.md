@@ -1,5 +1,7 @@
 # Unveiling-the-Growth-of-UPI: A Data-Driven Analysis of India’s Digital Payment Revolution
 
+![UPI2](https://github.com/user-attachments/assets/bcd27ad5-b1d3-491a-af17-50e506574620)
+
 Introduction
 
 Unified Payments Interface (UPI) has revolutionized digital payments in India, making it one of the most popular and widely used payment systems in the country. With millions of transactions happening every day, analyzing UPI transaction data can provide valuable insights into consumer behavior and the overall performance of different payment platforms.
